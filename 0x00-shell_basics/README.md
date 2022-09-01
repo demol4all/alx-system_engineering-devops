@@ -1,1 +1,1 @@
-script that prints the absolute path name of the current working directory
+‘This repo contains my second project in ALX PROJECTS’
